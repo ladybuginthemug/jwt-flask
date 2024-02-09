@@ -28,11 +28,6 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-## Running the Application
-
-```bash
-python3 run.py
-```
 
 ## Endpoints
 
@@ -47,7 +42,7 @@ Make sure to replace `yourusername` with your actual GitHub username and adjust 
 In the terminal or command prompt (make sure you're in the project directory and the virtual environment is activated), start the Flask application by running:
 
 ```bash
-python app.py
+python3 app.py
 ```
 This command starts a local web server. By default, Flask runs on port 5000.
 
