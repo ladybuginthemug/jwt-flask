@@ -42,7 +42,7 @@ Make sure to replace `yourusername` with your actual GitHub username and adjust 
 In the terminal or command prompt (make sure you're in the project directory and the virtual environment is activated), start the Flask application by running:
 
 ```bash
-python3 app.py
+python3 run.py
 ```
 This command starts a local web server. By default, Flask runs on port 5000.
 
