@@ -20,8 +20,10 @@ cd jwt-flask
 python3 -m venv venv
 ```
 4. activate the virtual environment:
-- On Windows: `venv\Scripts\activate`
-- On macOS/Linux: `source venv/bin/activate`
+
+```
+source venv/bin/activate`
+```
 
 5. install dependencies:
 ```
