@@ -85,6 +85,6 @@ Replace `YOUR_TOKEN_HERE` with the actual token you want to verify.
 
 
 ---
-Following these steps, you can run the enhanced Flask application to generate and verify JWTs using both symmetric (HS256) and asymmetric (RS256) algorithms. This setup allows you to experiment with JWT creation, verification, and exploring vulnerabilities and security measures in a controlled environment.
+
 
 
